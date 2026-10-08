@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f6f4ee;
+  --color-ink: #1e2530;
+  --color-inksoft: #5b6472;
+  --color-line: #d9d5c8;
+  --color-navy: #1f3a4a;
+  --color-navydark: #152833;
+  --color-teal: #0f6e56;
+  --color-tealdark: #085041;
+  --color-danger: #a32d2d;
+  --color-dangerbg: #fcebeb;
+  --color-amber: #ba7517;
+}
+
+body {
+  font-family: "Georgia", "Iowan Old Style", serif;
+}
