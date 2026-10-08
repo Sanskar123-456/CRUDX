@@ -76,7 +76,7 @@ export default function App() {
         {apiOk === null
           ? ""
           : apiOk
-            ? "Connected to API at http://localhost:5000/api/records"
+            ? "Connected to API at https://crud-x-l5is.onrender.com"
             : "Cannot reach backend — start the server first."}
       </p>
 
