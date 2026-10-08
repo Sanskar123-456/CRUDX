@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api/records";
+const API_BASE = "https://crud-x-l5is.onrender.com";
 
 export async function fetchRecords() {
   const res = await fetch(API_BASE);
